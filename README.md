@@ -1,5 +1,6 @@
 # Poenaru Iulian
 #### *NOT an actual dragon between the oceans*
+![A dragon](https://i.pinimg.com/originals/58/f6/5e/58f65ec909f82955b42161c00417fe61.png)
 
 - [x] Student
 - [x] Webdeveloper
